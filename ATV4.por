@@ -1,6 +1,7 @@
 programa
 {
-	const inteiro Pedaco = 45
+	
+        const inteiro Pedaco = 45
 	inteiro Opcoes[] = {3000,4000,5000}
 	funcao inicio()
 	{
